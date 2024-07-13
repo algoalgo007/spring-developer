@@ -38,6 +38,3 @@ out/
 
 ### OAuth ###
 application-oauth.yml
-
-### jwt ###
-application-jwt.yml
